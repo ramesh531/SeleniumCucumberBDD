@@ -1,6 +1,6 @@
 Feature: A user can successfully find a company on the companies house website
 
-  # TASK1: Implement the steps for the test
+  # TASK1: Implement the steps for the test updated
 
   @test
   Scenario: Visit a page and check the page title
